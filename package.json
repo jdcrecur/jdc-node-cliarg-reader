@@ -1,0 +1,30 @@
+{
+	"name": "jdc-node-cliarg-reader",
+	"version": "1.0.0",
+	"description": "Node command line argument reader into js object",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/johnc1984/exif-image-auto-rotation"
+	},
+	"keywords": [
+		"autorotate",
+		"rotate",
+		"exif",
+		"jpeg"
+	],
+	"author": "John Carmichael",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/johnc1984/exif-image-auto-rotation/issues"
+	},
+	"homepage": "https://github.com/johnc1984/exif-image-auto-rotation",
+	"dependencies": {
+		"exif-parser": "0.1.9",
+		"gm": "1.19.0",
+		"async":"1.5.0"
+	}
+}
